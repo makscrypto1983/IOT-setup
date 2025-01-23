@@ -3,3 +3,7 @@
 ```
 sudo nmtui
 ```
+Выключить питание
+```
+sudo poweroff
+```
